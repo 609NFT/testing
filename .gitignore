@@ -1,0 +1,11 @@
+.git-credential-helper.sh
+.gitconfig
+STATUS.md
+AGENTS.md
+SOUL.md
+TOOLS.md
+IDENTITY.md
+USER.md
+HEARTBEAT.md
+MEMORY.md
+node_modules/
